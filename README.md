@@ -2,12 +2,13 @@
 
 🎓 CS @ UC San Diego Jacobs School Of Engineering | ⚙️ AI/ML Research | 🧠 Neural Computation Minor
 
-## 🚀 SWE Projects I’ve Worked On
-- 🔭 [HistBytz](https://github.com/ashishbamba/HistBytz) – a React-based history search engine that accounts for fuzzy search inputs with FuseJS  
+## 🚀 Personal Projects I’ve Worked On
+- 🔭 [HistBytz](https://github.com/ashishbamba/HistBytz) – a React-based history search engine that accounts for fuzzy inputs with FuseJS  
 - ⚡  [StockTrackr](https://github.com/ashishbamba/StockTrackr) – real-time stock dashboard with REST/WebSockets APIs
 
 ## 🤖 AI/ML Projects I've Shipped
-- 🧩 Contributing to UCSD’s CSES E/Acc research on differentiable audio synthesis  
+- 🧩 Contributing to UCSD’s CSES E/Acc research on differentiable audio synthesis
+- [TritonHacks AI/ML starter-kit](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit) - Public kit for TritonHacks 2025: stroke-risk classification with clear notebooks on data handling, modeling, and evaluation (selected 1 of 3 developers).
 
 ## 🧠 Tech Stack
 **Languages:** Python, Java, C++, JavaScript, TypeScript, SQL  
