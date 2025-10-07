@@ -2,7 +2,7 @@
 
 🎓 CS @ UC San Diego Jacobs School Of Engineering | ⚙️ AI/ML Research | 🧠 Neural Computation Minor
 
-## 🚀 Personal Projects I’ve Worked On
+## 🚀 Products I’ve Shipped
 - 🔭 [HistBytz](https://github.com/ashishbamba/HistBytz) – a React-based history search engine that accounts for fuzzy inputs with FuseJS  
 - ⚡  [StockTrackr](https://github.com/ashishbamba/StockTrackr) – real-time stock dashboard with REST/WebSockets APIs
 
