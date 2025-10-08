@@ -3,8 +3,8 @@
 🎓 Computer Science @ UC San Diego Jacobs School Of Engineering | 🧠 Cognitive Science (spec. Machine Learning & Neural Computation) Minor
 
 ## 🚀 Products I’ve Shipped
-- 🔭 [HistBytz](https://github.com/ashishbamba/HistBytz) – a React-based history search engine that accounts for fuzzy inputs with FuseJS  
-- 📈 [StockTrackr](https://github.com/ashishbamba/StockTrackr) – real-time stock dashboard with REST/WebSockets APIs
+- 🔭 [HistBytz](https://github.com/AshishBamba05/HistBytz) – a React-based history search engine that accounts for fuzzy inputs with FuseJS  
+- 📈 [StockTrackr](https://github.com/AshishBamba05/StockTrackr) – real-time stock dashboard with REST/WebSockets APIs
 
 ## 👨‍💻 Team-Based Products I've Helped Ship
 - 🧩 [TritonHacks AI/ML starter-kit](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit) - Public kit for TritonHacks 2025: stroke-risk classification with clear notebooks on data handling, modeling, and evaluation (selected 1 of 3 developers).
