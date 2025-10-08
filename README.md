@@ -13,8 +13,8 @@
 - CSES E/Acc ([ORCA Research](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) - Received acknolwedgement (page 9) for contributions to system design & experiemantation; helped build Instrument Transposition pipeline
 
 ## 🧠 Tech Stack
-**Languages:** Python, Java, C++, JavaScript, TypeScript, SQL  
-**Frameworks:** React, Node.js, Express, PyTorch, Flask  
+**Languages:** Python, Java, C++, JavaScript, TypeScript, SQL, HTML/CSS  
+**Frameworks:** React, Node, Express, Scikit-Learn
 **Tools:** Git, Docker, VSCode, Postgres, MongoDB
 
 ## 📫 Connect With Me
