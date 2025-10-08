@@ -10,7 +10,7 @@
 - 🧩 [TritonHacks AI/ML starter-kit](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit) - Public kit for TritonHacks 2025: stroke-risk classification with clear notebooks on data handling, modeling, and evaluation (selected 1 of 3 developers).
 
 ## Research 
-- CSES E/Acc ([ORCA Research](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) - helped build Instrument Transposition pipeline
+- CSES E/Acc ([ORCA Research](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) - Received acknolwedgement (page 9) for contributions to system design & experiemantation; helped build Instrument Transposition pipeline
 
 ## 🧠 Tech Stack
 **Languages:** Python, Java, C++, JavaScript, TypeScript, SQL  
