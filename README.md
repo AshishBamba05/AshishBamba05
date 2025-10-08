@@ -15,6 +15,7 @@
 ## 🧠 Tech Stack
 **Languages:** Python, Java, C++, JavaScript, TypeScript, SQL, HTML/CSS  
 **Frameworks:** React, Node, Express, Scikit-Learn
+
 **Tools:** Git, Docker, VSCode, Postgres
 
 ## 📫 Connect With Me
