@@ -18,7 +18,7 @@
 **Tools:** Git, Docker, VSCode, Postgres, MongoDB
 
 ## 📫 Connect With Me
-[LinkedIn](https://linkedin.com/in/ashishbamba) | [Portfolio](https://abamba-portfolio.netlify.app/) | [Email](mailto:ashishbamba@gmail.com)
+[LinkedIn](https://linkedin.com/in/ashishbamba) | [Portfolio](https://abamba-portfolio.netlify.app/) | [Email](mailto:ashishvbamba@gmail.com)
 
 ⭐️ *“Ideas don’t come out fully formed — they only become clear as you work on them. You just have to get started.”*
 
