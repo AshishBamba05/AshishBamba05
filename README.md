@@ -7,7 +7,6 @@
 - 📈 [StockTrackr](https://github.com/ashishbamba/StockTrackr) – real-time stock dashboard with REST/WebSockets APIs
 
 ## 👨‍💻 Team-Based Products I've Helped Ship
-- 🎶 Contributing to UCSD’s CSES E/Acc research on differentiable audio synthesis
 - 🧩 [TritonHacks AI/ML starter-kit](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit) - Public kit for TritonHacks 2025: stroke-risk classification with clear notebooks on data handling, modeling, and evaluation (selected 1 of 3 developers).
 
 ## Research 
