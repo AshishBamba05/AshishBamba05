@@ -1,6 +1,6 @@
 # Hi, I'm Ashish 👋
 
-🎓 CS @ UC San Diego Jacobs School Of Engineering | ⚙️ AI/ML Research | 🧠 Neural Computation Minor
+🎓 CS @ UC San Diego Jacobs School Of Engineering | ⚙️ AI/ML Research | 🧠 Cognitive Science (spec. Machine Learning & Neural Computation) Minor
 
 ## 🚀 Products I’ve Shipped
 - 🔭 [HistBytz](https://github.com/ashishbamba/HistBytz) – a React-based history search engine that accounts for fuzzy inputs with FuseJS  
