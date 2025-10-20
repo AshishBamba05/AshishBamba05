@@ -3,6 +3,8 @@
 🎓 Computer Science @ UC San Diego Jacobs School Of Engineering | 🧠 Cognitive Science (spec. Machine Learning & Neural Computation) Minor
 
 ## 🚀 Products I’ve Shipped
+
+All projects are open-source and MIT-licensed.
 - 🔭 [HistBytz](https://github.com/AshishBamba05/histbytz-app) – a React-based history search engine that accounts for fuzzy inputs with FuseJS  
 - 📈 [StockTrackr](https://github.com/AshishBamba05/stockTrackr) – real-time stock dashboard with REST/WebSockets APIs
 
