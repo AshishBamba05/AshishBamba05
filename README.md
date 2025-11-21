@@ -13,7 +13,7 @@ All projects are open-source and MIT-licensed.
 ## 💥 Experience
 - **👉 [AI/ML Starter-Kit Developer](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit)** — Built reproducible, supervised ML kits (KNN, Logistic Regression, Random Forest, & MLP classifiers) to accelerate TritonHacks onboarding 
   
-- **👉 CSES Innovate – ORCA Research** ([acknowledgement](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Architected modular, AI-driven platform in Python, enabling E2E translation between audio, symbolic notation, & sheet music, securing awards @ SoCal AI Responsibility Summit (SAIRS 2025) and San Diego Tech Conference (SDTC)
+- **👉 CSES Innovate – ORCA Research** ([acknowledgement](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Architected modular, AI-driven platform, enabling E2E translation between audio, MIDI, & sheet music, securing awards @ SoCal AI Responsibility Summit and San Diego Tech Conference
 
 
 ## 💻 Tech Stack
