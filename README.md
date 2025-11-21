@@ -11,7 +11,7 @@ All projects are open-source and MIT-licensed.
 ---
 
 ## 💥 Experience I Bring
-- **👉 AI Researcher @ CSES Innovate** ([acknowledgement at Page 9](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Built AI-driven platform to enable E2E translation between audio, MIDI, sheet music, securing awards at:
+- **👉 AI Researcher @ CSES Innovate** ([acknowledgement at Page 9](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Architected modular, AI-driven platform to enable E2E translation between audio, MIDI, sheet music, securing awards at:
   - 🥇 SoCal AI Responsibility Summit (SAIRS 2025)
   - 🥇 San Diego Tech Conference (SDTC 2025)
   
