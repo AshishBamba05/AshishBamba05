@@ -11,11 +11,11 @@ All projects are open-source and MIT-licensed.
 ---
 
 ## 💥 Experience I Bring
-- **👉 CSES Innovate – ORCA Research** ([acknowledgement](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Architected modular, AI-driven platform to enable E2E translation between audio, MIDI, & sheet music, securing awards @ SoCal AI Responsibility Summit and San Diego Tech Conference
+- **👉 AI/ML Researcher @ CSES Innovate (ORCA)** ([acknowledgement](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Architected modular, AI-driven platform to enable E2E translation between audio, MIDI, & sheet music, securing awards @ SoCal AI Responsibility Summit and San Diego Tech Conference
   
 - **👉 SDE Intern @ Vikmere Software Inc.** — Constructed backend workflows (using Java microservices & ReactJS) to revamp client's dining reservation system with data storage in Cloud SQL (GCP)
   
-- **👉 [AI/ML Starter-Kit Developer](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit)** — Built reproducible, supervised ML kits (KNN, Logistic Regression, Random Forest, & MLP classifiers) to accelerate TritonHacks onboarding 
+- **👉 [AI/ML Starter-Kit Developer](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit) @ CS foreach** — Built reproducible, supervised ML kits (KNN, Logistic Regression, Random Forest, & MLP classifiers) to accelerate TritonHacks onboarding 
 
 
 ## 💻 Tech Stack
