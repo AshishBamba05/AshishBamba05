@@ -15,7 +15,7 @@ All projects are open-source and MIT-licensed.
 - **🔊 CSES E/Acc – ORCA Research** ([acknowledgement](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Contributed to system design + experimentation for the Instrument Transposition pipeline; credited on page 9
 
 
-## 🧠 Tech Stack
+## 💻 Tech Stack
 **Languages:** Python, Java, C++, JavaScript, TypeScript, SQL, HTML/CSS  
 **Frameworks:** React, Node, Express, Scikit-Learn
 **Tools:** Git, Docker, VSCode, Postgres
