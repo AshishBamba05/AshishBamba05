@@ -11,7 +11,7 @@ All projects are open-source and MIT-licensed.
 ---
 
 ## 🧠 Impact Through Teams & Research
-- **🧩 [TritonHacks AI/ML Starter-Kit](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit)** — Developed reproducible supervised AI/ML-based scikit-learn educational kits for TritonHacks, accelerating onboarding by engineering modular implementations of KNN, Logistic Regression, Random Forest, & MLP classifiers
+- **🧩 [TritonHacks AI/ML Starter-Kit](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit)** — Developed reproducible supervised ML-based scikit-learn educational kits for TritonHacks, accelerating onboarding by engineering modular implementations of KNN, Logistic Regression, Random Forest, & MLP classifiers
 - **🔊 CSES Innovate – ORCA Research** ([acknowledgement](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Contributed to system design + experimentation for the Instrument Transposition pipeline; credited on page 9
 
 
