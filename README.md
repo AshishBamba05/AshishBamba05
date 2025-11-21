@@ -12,7 +12,7 @@ All projects are open-source and MIT-licensed.
 
 ## 🧠 Impact Through Teams & Research
 - **🧩 [TritonHacks AI/ML Starter-Kit](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit)** — Co-built the public ML kit for TritonHacks 2025; delivered a complete stroke-risk classifier with transparent preprocessing, modeling, and evaluation notebooks  
-- **🔊 CSES E/Acc – ORCA Research** ([acknowledgement](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Contributed to system design + experimentation for the Instrument Transposition pipeline; credited on page 9
+- **🔊 CSES Innovate – ORCA Research** ([acknowledgement](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Contributed to system design + experimentation for the Instrument Transposition pipeline; credited on page 9
 
 
 ## 💻 Tech Stack
