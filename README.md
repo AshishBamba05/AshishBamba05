@@ -5,15 +5,15 @@
 ## 🚀 Products I’ve Shipped
 All projects are open-source and MIT-licensed.
 
-- **🎛️ [HistBytz](https://github.com/AshishBamba05/histbytz-app)** — React-driven historical search engine with fuzzy matching (Fuse.js) for imperfect queries  
-- **📊 [StockTrackr](https://github.com/AshishBamba05/stockTrackr)** — Real-time stock monitoring dashboard powered by REST endpoints + WebSocket streaming
+- **👉 [HistBytz](https://github.com/AshishBamba05/histbytz-app)** — React-driven historical search engine with fuzzy matching (Fuse.js) for imperfect queries  
+- **👉 [StockTrackr](https://github.com/AshishBamba05/stockTrackr)** — Real-time stock monitoring dashboard powered by REST endpoints + WebSocket streaming
 
 ---
 
 ## 💥 Experience
-- **🧩 [TritonHacks AI/ML Starter-Kit](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit)** — Developed reproducible scikit-learn educational kits for TritonHacks, accelerating onboarding by engineering modular implementations of KNN, Logistic Regression, Random Forest, & MLP classifiers
+- **👉 [TritonHacks AI/ML Starter-Kit](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit)** — Developed reproducible scikit-learn educational kits for TritonHacks, accelerating onboarding by engineering modular implementations of KNN, Logistic Regression, Random Forest, & MLP classifiers
   
-- **🔊 CSES Innovate – ORCA Research** ([acknowledgement](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Architected modular, AI-driven platform in Python, enabling E2E translation between audio, symbolic notation, & sheet music, securing awards @ SoCal AI Responsibility Summit (SAIRS 2025) and San Diego Tech Conference (SDTC)
+- **👉 CSES Innovate – ORCA Research** ([acknowledgement](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Architected modular, AI-driven platform in Python, enabling E2E translation between audio, symbolic notation, & sheet music, securing awards @ SoCal AI Responsibility Summit (SAIRS 2025) and San Diego Tech Conference (SDTC)
 
 
 ## 💻 Tech Stack
