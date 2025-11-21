@@ -11,7 +11,7 @@ All projects are open-source and MIT-licensed.
 ---
 
 ## 💥 Experience I Bring
-- **👉 AI/ML Researcher @ CSES Innovate** ([acknowledgement](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Architected modular, AI-driven platform to enable E2E translation between audio, MIDI, & sheet music, securing awards @ SoCal AI Responsibility Summit and San Diego Tech Conference
+- **👉 AI Researcher @ CSES Innovate** ([acknowledgement](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Architected modular, AI-driven platform to enable E2E translation between audio, MIDI, & sheet music, securing awards @ SoCal AI Responsibility Summit and San Diego Tech Conference
   
 - **👉 SDE Intern @ Vikmere Software Inc.** — Constructed backend workflows (using Java microservices & ReactJS) to revamp client's dining reservation system with data storage in Cloud SQL (GCP)
   
