@@ -1,6 +1,6 @@
 # Hi, I'm Ashish 👋
 
-🎓 Computer Science @ UC San Diego Jacobs School Of Engineering | 🧠 Cognitive Science (spec. Machine Learning & Neural Computation) Minor
+🎓 Computer Science @ UC San Diego Jacobs School Of Engineering | 🧠 Cognitive Science (spec. Machine Learning) Minor
 
 ## 🚀 Products I’ve Shipped
 All projects are open-source and MIT-licensed.
