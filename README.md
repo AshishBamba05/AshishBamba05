@@ -22,10 +22,8 @@ All projects are open-source and MIT-licensed.
 
 ## 💻 Tech Stack
 **Languages:** Python, Java, C++, JavaScript, TypeScript, SQL, HTML/CSS  
-**Frameworks:** React, Node, Express, Scikit-Learn
+**Frameworks:** React, Node, Express, Fuse, Konva, Scikit-Learn, Pandas, Seaborn, NumPy
 
-
-**Tools:** Git, Docker, VSCode, Postgres
 
 ## 📫 Connect With Me
 [LinkedIn](https://linkedin.com/in/ashishbamba) | [Portfolio](https://abamba-portfolio.netlify.app/) | [Email](mailto:ashishvbamba@gmail.com)
