@@ -3,16 +3,17 @@
 🎓 Computer Science @ UC San Diego Jacobs School Of Engineering | 🧠 Cognitive Science (spec. Machine Learning & Neural Computation) Minor
 
 ## 🚀 Products I’ve Shipped
-
 All projects are open-source and MIT-licensed.
-- 🔭 [HistBytz](https://github.com/AshishBamba05/histbytz-app) – a React-based history search engine that accounts for fuzzy inputs with FuseJS  
-- 📈 [StockTrackr](https://github.com/AshishBamba05/stockTrackr) – real-time stock dashboard with REST/WebSockets APIs
 
-## 👨‍💻 Team-Based Products I've Helped Ship
-- 🧩 [TritonHacks AI/ML starter-kit](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit) - Public kit for TritonHacks 2025: stroke-risk classification with clear notebooks on data handling, modeling, and evaluation (selected 1 of 3 developers).
+- **🎛️ [HistBytz](https://github.com/AshishBamba05/histbytz-app)** — React-driven historical search engine with fuzzy matching (Fuse.js) for imperfect queries  
+- **📊 [StockTrackr](https://github.com/AshishBamba05/stockTrackr)** — Real-time stock monitoring dashboard powered by REST endpoints + WebSocket streaming
 
-## 📘 Research 
-- 🔊 CSES E/Acc ([ORCA Research](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) - Received acknolwedgement (page 9) for contributions to system design & experiemantation; helped build Instrument Transposition pipeline
+---
+
+## 🧠 Impact Through Teams & Research
+- **🧩 [TritonHacks AI/ML Starter-Kit](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit)** — Co-built the public ML kit for TritonHacks 2025; delivered a complete stroke-risk classifier with transparent preprocessing, modeling, and evaluation notebooks  
+- **🔊 CSES E/Acc – ORCA Research** ([acknowledgement](https://drive.google.com/file/d/1B4LdDfa3dYvXjpXJPKUk4liswhSwPQd9/view)) — Contributed to system design + experimentation for the Instrument Transposition pipeline; credited on page 9
+
 
 ## 🧠 Tech Stack
 **Languages:** Python, Java, C++, JavaScript, TypeScript, SQL, HTML/CSS  
