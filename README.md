@@ -22,7 +22,7 @@ All projects are open-source and MIT-licensed.
 
 
 ## 💻 Tech Stack
-**Languages:** Python, Java, C++, JavaScript, TypeScript, SQL, HTML/CSS  
+**Languages:** Python, Java, C/C++, JavaScript, TypeScript, SQL, HTML/CSS  
 **Frameworks:** React, Node, Express, Fuse, Konva, Scikit-Learn, Pandas, Seaborn, NumPy
 
 
