@@ -23,9 +23,12 @@ All projects are open-source and MIT-licensed.
 
 
 ## 💻 Tech Stack
-**Languages:** Python, Java, C/C++, JavaScript, TypeScript, SQL, HTML/CSS  
-**Frameworks:** React, Node, Express, Fuse, Konva, Scikit-Learn, Pandas, Seaborn, NumPy
 
+**Languages:** Python, Java, C, C++, JavaScript, TypeScript, SQL, HTML/CSS
+**Backend & Web:** React.js, Node.js, Express.js, Fuse.js, Konva.js, REST APIs, WebSockets, Vite
+**Data & ML:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+**Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes, Heroku, GitHub Actions CI/CD)
+**Datastores & Tools:** PostgreSQL (Supabase), MS SQL Server, MySQL, Git, VS Code, PyCharm, Visual Studio, GDB, Valgrind
 
 
 ## 📫 Connect With Me
