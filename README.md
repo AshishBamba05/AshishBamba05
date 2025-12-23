@@ -32,7 +32,7 @@ All projects are open-source and MIT-licensed.
 
 **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes, Heroku, GitHub Actions CI/CD)
 
-**Datastores & Tools:** PostgreSQL (Supabase), MS SQL Server, MySQL, Git, VS Code, PyCharm, Visual Studio, GDB, Valgrind
+**Datastores & Tools:** PostgreSQL (Supabase), MS SQL Server, MySQL, MongoDB (Mongoose), NoSQL, Git, Jest
 
 
 ## 📫 Connect With Me
