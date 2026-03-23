@@ -28,7 +28,7 @@ All projects are open-source and MIT-licensed.
 
 **Backend & Web:** React.js, Node.js, Express.js, Konva.js, WebSockets, REST APIs, Postman
 
-**Data & ML:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+**Data & ML:** PyTorch, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
 
 **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes, Heroku, GitHub Actions CI/CD)
 
