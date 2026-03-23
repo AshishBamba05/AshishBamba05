@@ -26,13 +26,13 @@ All projects are open-source and MIT-licensed.
 
 **Languages:** Python, Java, C, C++, JavaScript, TypeScript, SQL, HTML/CSS
 
-**Backend & Web:** React.js, Node.js, Express.js, Fuse.js, Konva.js, REST APIs, WebSockets, Vite
+**Backend & Web:** React.js, Node.js, Express.js, Konva.js, WebSockets, REST APIs, Postman
 
 **Data & ML:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
 
 **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes, Heroku, GitHub Actions CI/CD)
 
-**Datastores & Tools:** PostgreSQL (Supabase), MS SQL Server, MySQL, MongoDB (Mongoose), NoSQL, Git, Jest
+**Datastores & Tools:** Codex, Claude, PostgreSQL (Supabase), MS-SQL, MySQL, MongoDB (Mongoose), NoSQL, Git, VS Code
 
 
 ## 📫 Connect With Me
