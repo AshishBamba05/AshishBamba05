@@ -6,7 +6,7 @@
 All projects are open-source and MIT-licensed.
 
 - **👉 [StockWatch](https://github.com/AshishBamba05/stockTrackr)** — Real-time stock monitoring dashboard powered by REST endpoints + WebSocket streaming
-- **👉 [Histora](https://github.com/AshishBamba05/histora)** — React-driven historical search engine with Levenshtein's DP-based algorithm for suggestive searches
+- **👉 [Histora](https://github.com/AshishBamba05/histora)** — A search application for exploring historical events, powered by React frontend + Express API routing + MongoDB dataset
 - **👉 [NumberNova](https://github.com/CSE110-Coblenz/cse-110-project-team-39)** — MVC-based architecture integrating TypeScript, Konva, & PostgreSQL to deliver end-to-end functionality of Interactive K-12 Math game. CI/CD testing pipeline using Jest.
 
 
