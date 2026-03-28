@@ -5,8 +5,8 @@
 ## 🚀 Products I’ve Shipped
 All projects are open-source and MIT-licensed.
 
-- **👉 [StockTrackr](https://github.com/AshishBamba05/stockTrackr)** — Real-time stock monitoring dashboard powered by REST endpoints + WebSocket streaming
-- **👉 [HistBytz](https://github.com/AshishBamba05/histbytz-app)** — React-driven historical search engine with Levenshtein's DP-based algorithm for suggestive searches
+- **👉 [StockWatch](https://github.com/AshishBamba05/stockTrackr)** — Real-time stock monitoring dashboard powered by REST endpoints + WebSocket streaming
+- **👉 [Histora](https://github.com/AshishBamba05/histbytz-app)** — React-driven historical search engine with Levenshtein's DP-based algorithm for suggestive searches
 - **👉 [NumberNova](https://github.com/CSE110-Coblenz/cse-110-project-team-39)** — MVC-based architecture integrating TypeScript, Konva, & PostgreSQL to deliver end-to-end functionality of Interactive K-12 Math game. CI/CD testing pipeline using Jest.
 
 
