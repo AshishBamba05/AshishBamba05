@@ -32,7 +32,7 @@ All projects are open-source and MIT-licensed.
 
 **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes, Heroku, GitHub Actions CI/CD)
 
-**Datastores & Tools:** Codex, Claude, PostgreSQL (Supabase), MS-SQL, MySQL, MongoDB (Mongoose), NoSQL, Git, VS Code
+**Datastores & Tools:** Codex, Claude, Copilot PostgreSQL (Supabase), MS-SQL, MySQL, MongoDB (Mongoose), NoSQL, Git
 
 
 ## 📫 Connect With Me
