@@ -1,6 +1,6 @@
 # Hi, I'm Ashish 👋
 
-🎓 Computer Science @ UCSD &nbsp; | &nbsp; 🧠 Cognitive Science (spec. Machine Learning) Minor
+🎓 Computer Science @ UCSD &nbsp; | &nbsp; 🧠  Cognitive Science (spec. Machine Learning) Minor
 
 ## 🚀 Products I’ve Shipped
 All projects are open-source and MIT-licensed.
