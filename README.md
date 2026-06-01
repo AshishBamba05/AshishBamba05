@@ -22,7 +22,7 @@ All projects are open-source and MIT-licensed.
 
 ## 💻 Tech Stack
 
-**Languages:** Python, Java, C, C++, JavaScript, TypeScript, SQL, HTML/CSS
+**Languages:** Python, Java, C, C++, JavaScript, TypeScript, C#, SQL, HTML/CSS
 
 **Backend & Web:** React.js, Node.js, Express.js, Konva.js, WebSockets, REST APIs, Postman
 
