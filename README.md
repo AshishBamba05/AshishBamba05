@@ -32,6 +32,8 @@ All projects are open-source and MIT-licensed.
 
 **Datastores & Tools:** Codex, Claude, Copilot, PostgreSQL (Supabase), MS-SQL, MySQL, MongoDB (Mongoose), NoSQL, Git
 
+**XR & 3D Tools:** Unity, Blender, Meta Quest 2, Apple Vision Pro
+
 
 ## 📫 Connect With Me
 [LinkedIn](https://linkedin.com/in/ashishbamba) | [Portfolio](https://abamba-portfolio.netlify.app/) | [Email](mailto:ashishvbamba@gmail.com)
