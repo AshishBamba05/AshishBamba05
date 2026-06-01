@@ -24,9 +24,9 @@ All projects are open-source and MIT-licensed.
 
 **Languages:** Python, Java, C, C++, JavaScript, TypeScript, C#, SQL, HTML/CSS
 
-**Web & Frameworks:** React.js, Node.js, Express.js, Konva.js, WebSockets, REST APIs, Postman
+**Web & Frameworks:** React.js, Node.js, Express.js, Konva.js, FastAPI, WebSockets, REST APIs, Postman
 
-**Data & ML:** PyTorch, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+**Data & ML:** PyTorch, Scikit-Learn, NumPy, Pandas, SciPy, Matplotlib, Seaborn
 
 **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes, GitHub Actions (CI/CD), Heroku
 
