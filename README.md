@@ -8,7 +8,7 @@ All projects are open-source and MIT-licensed.
 - **👉 [StockWatch](https://github.com/AshishBamba05/stockTrackr)** — Real-time stock monitoring dashboard powered by REST API endpoints + WebSocket streaming
 - **👉 [Histora](https://github.com/AshishBamba05/histora)** — A search application for exploring U.S. historical events, built on MERN tech stack
 - **👉 [NumberNova](https://github.com/CSE110-Coblenz/cse-110-project-team-39)** — Interactive K-12 game built on Model-View-Controller (MVC) architecture
-- **👉 [Benedict](https://github.com/AshishBamba05/The_Benedict_Project)** - Virtual Reality avater companion in Meta Quest 2 headset, built in Unity/C# and Meta Voice SDK APIs for custom experiences.
+- **👉 [Benedict](https://github.com/AshishBamba05/The_Benedict_Project)** - Virtual Reality avater companion with real-time voice interaction in Meta Quest 2 headset, built in Unity/C#
 
 
 
