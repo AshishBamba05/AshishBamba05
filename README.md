@@ -15,7 +15,7 @@ All projects are open-source and MIT-licensed.
 ## 💥 Experience I Bring
 - **👉 Undergraduate Researcher - Machine Learning Development @ CSES Innovate** — Architected modular, AI-driven platform to enable E2E translation between audio, symbolic notation (MIDI), & sheet music
   
-- **👉 SDE Intern @ Vikmere Software Inc.** — Constructed backend workflows (using **Java** microservices & **ReactJS**) to revamp client's dining reservation system with data storage in **Cloud SQL (GCP)**
+- **👉 Software Engineer Intern @ Vikmere Software Inc.** — Constructed backend workflows (using **Java** microservices & **ReactJS**) to revamp client's dining reservation system with data storage in **Cloud SQL (GCP)**
   
 - **👉 [AI/ML Starter-Kit Developer](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit) @ CS foreach** — Built reproducible **supervised ML** kits **(KNN, Logistic Regression, Random Forest, & MLP classifiers)** with evaluation templates **(precision, recall, AUC-ROC)** to accelerate *TritonHacks* onboarding 
 
