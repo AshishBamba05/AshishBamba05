@@ -1,6 +1,7 @@
 # Hi, I'm Ashish 👋
 
-🎓 Computer Science @ UCSD &nbsp;
+I'm a Computer Science student at UC San Diego building backend systems, full-stack products, and applied ML work.
+Looking for strong engineering teams where I can contribute early and keep growing. Feel free to connect!
 
 ## 🚀 Products I’ve Shipped
 All projects are open-source and MIT-licensed.
