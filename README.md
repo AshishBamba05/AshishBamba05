@@ -3,6 +3,14 @@
 I'm a Computer Science student at UC San Diego building backend systems, full-stack products, and applied ML work.
 Looking for strong engineering teams where I can contribute early and keep growing. Feel free to connect!
 
+## 💥 Experience I Bring
+- **👉 Undergraduate Researcher - Machine Learning Development @ CSES Innovate** — Architected modular, AI-driven platform to enable E2E translation between audio, symbolic notation (MIDI), & sheet music
+  
+- **👉 Software Engineer Intern @ Vikmere Software Inc.** — Constructed backend workflows (using **Java** microservices & **ReactJS**) to revamp client's dining reservation system with data storage in **Cloud SQL (GCP)**
+  
+- **👉 [AI/ML Starter-Kit Developer](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit) @ CS foreach** — Built reproducible **supervised ML** kits **(KNN, Logistic Regression, Random Forest, & MLP classifiers)** with evaluation templates **(precision, recall, AUC-ROC)** to accelerate *TritonHacks* onboarding
+
+
 ## 🚀 Products I’ve Shipped
 All projects are open-source and MIT-licensed.
 
@@ -10,15 +18,6 @@ All projects are open-source and MIT-licensed.
 - **👉 [Histora](https://github.com/AshishBamba05/histora)** — A search application for exploring U.S. historical events, built on MERN tech stack
 - **👉 [NumberNova](https://github.com/CSE110-Coblenz/cse-110-project-team-39)** — Interactive K-12 game built on Model-View-Controller (MVC) architecture
 - **👉 [Benedict](https://github.com/AshishBamba05/The_Benedict_Project)** - Virtual Reality avater companion with real-time voice interaction in Meta Quest 2 headset, built in Unity/C#
-
-
-
-## 💥 Experience I Bring
-- **👉 Undergraduate Researcher - Machine Learning Development @ CSES Innovate** — Architected modular, AI-driven platform to enable E2E translation between audio, symbolic notation (MIDI), & sheet music
-  
-- **👉 Software Engineer Intern @ Vikmere Software Inc.** — Constructed backend workflows (using **Java** microservices & **ReactJS**) to revamp client's dining reservation system with data storage in **Cloud SQL (GCP)**
-  
-- **👉 [AI/ML Starter-Kit Developer](https://github.com/tritonhacks/TritonHacks2025-ML-starter-kit) @ CS foreach** — Built reproducible **supervised ML** kits **(KNN, Logistic Regression, Random Forest, & MLP classifiers)** with evaluation templates **(precision, recall, AUC-ROC)** to accelerate *TritonHacks* onboarding 
 
 
 
