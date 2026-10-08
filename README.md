@@ -23,17 +23,15 @@ All projects are open-source and MIT-licensed.
 
 ## 💻 Tech Stack
 
-**Languages:** Python, Java, C, C++, JavaScript, TypeScript, C#, SQL, HTML/CSS
+**Languages:** Python, Java, C, C++, JavaScript, TypeScript, C#, GLSL, Slang, SQL, HTML/CSS
 
-**Web & Frameworks:** React.js, Node.js, Express.js, Konva.js, FastAPI, WebSockets, REST APIs, Postman
+**Web & Frameworks:** React.js, Next.js, Node.js, Express.js, WebSockets, REST APIs, Postman
 
-**Data & ML:** PyTorch, Scikit-Learn, NumPy, Pandas, SciPy, Matplotlib, Seaborn
+**AI/ML & AI Tooling:** Codex, Cursor, Claude Code, PyTorch, Scikit-Learn, NumPy, Pandas, SciPy, Matplotlib, Seaborn
 
-**Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes, GitHub Actions (CI/CD), Heroku
+**Cloud & Infrastructure:** Google Cloud Platform (GCP), Docker, Kubernetes, GitHub Actions, PostgreSQL, MySQL, MongoDB
 
-**Datastores & Tools:** Codex, Claude, Copilot, PostgreSQL (Supabase), MS-SQL, MySQL, MongoDB (Mongoose), NoSQL, Git
-
-**XR & 3D Tools:** Unity, Blender, Meta Quest 2, Apple Vision Pro
+**Graphics:** OpenGL, OpenCV, Unity, Blender, SlangPy, ShaderToy
 
 
 ## 📫 Connect With Me
