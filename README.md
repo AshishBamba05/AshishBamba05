@@ -4,6 +4,11 @@ I'm a Computer Science student at UC San Diego building backend systems, full-st
 Looking for strong engineering teams where I can contribute early and keep growing. Feel free to connect!
 
 ## 💥 Experience I Bring
+
+- 👉 **Instructional Assistant (Course Tutor) @ UC San Diego** — Mentoring 190+ students in computer graphics, helping develop & debug Python rendering pipelines using **Balboa**, while teaching **rasterization, shader programming, & GPU-powered rendering with Slang/SlangPy**.
+
+- 👉 **Founding Software Engineer @ RudraHealth AI** — Leading 0 → 1 development of a **HIPAA-compliant healthcare platform** using **Next.js, PostgreSQL, & Google Cloud Run**, architecting backend workflows for patient engagement, security, & rewards.
+
 - **👉 Undergraduate Researcher - Machine Learning Development @ CSES Innovate** — Architected modular, AI-driven platform to enable E2E translation between audio, symbolic notation (MIDI), & sheet music
   
 - **👉 Software Engineer Intern @ Vikmere Software Inc.** — Constructed backend workflows (using **Java** microservices & **ReactJS**) to revamp client's dining reservation system with data storage in **Cloud SQL (GCP)**
